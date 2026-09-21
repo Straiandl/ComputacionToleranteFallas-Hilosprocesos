@@ -35,7 +35,7 @@ A través de esta práctica se analiza el comportamiento del rendimiento ante do
 
 ### 2. Demostración del Impacto del GIL (CPU-Bound)
 *Captura de los tiempos comparativos entre la ejecución Secuencial, `threading` (bloqueado por el GIL) y `multiprocessing` (paralelismo real):*
-![https://github.com/Straiandl/ComputacionToleranteFallas-Hilosprocesos/blob/6d14b164a030371e5aa2d4c5af003c8ce08a3b0d/Hilos2.png)
+![https://github.com/Straiandl/ComputacionToleranteFallas-Hilosprocesos/blob/6d14b164a030371e5aa2d4c5af003c8ce08a3b0d/Hilos2.png)]
 
 
 ---
