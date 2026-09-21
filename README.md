@@ -33,8 +33,7 @@ A través de esta práctica se analiza el comportamiento del rendimiento ante do
 > **Nota para el alumno:** Guarda tus capturas dentro de la carpeta `img/` en tu repositorio y verifica que los nombres correspondan a los indicados.
 
 ### 1. Resultados de Rendimiento en Consola (I/O-Bound)
-*Captura de la ejecución del script mostrando los tiempos de `threading` vs `asyncio` en tareas de entrada/salida:*
-![Benchmark I/O Bound](./img/captura_io_bound.png)
+![[Benchmark I/O Bound](./img/captura_io_bound.png](https://github.com/Straiandl/ComputacionToleranteFallas-Hilosprocesos/blob/0b8828d4ae0ea716d1751633323876adac2ed229/Hilos1.png))
 
 ### 2. Demostración del Impacto del GIL (CPU-Bound)
 *Captura de los tiempos comparativos entre la ejecución Secuencial, `threading` (bloqueado por el GIL) y `multiprocessing` (paralelismo real):*
